@@ -1,0 +1,11 @@
+apiVersion: build.openshift.io/v1
+kind: BuildConfig
+metadata:
+  name: myapp-build
+spec:
+  source:
+    type: Git
+    git:
+      uri: "https://github.com/example/myapp.git"
+  strategy:
+    type: Docker
