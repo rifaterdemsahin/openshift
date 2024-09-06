@@ -26,11 +26,11 @@ This project provides 20 different YAML templates in OpenShift, representing cor
 18. [NetworkPolicy Template](#18-networkpolicy-template)
 19. [LimitRange Template](#19-limitrange-template)
 20. [ResourceQuota Template](#20-resourcequota-template)
-21. ClusterRole Template
-22. ClusterRoleBinding Template
-23. PodDisruptionBudget Template
-24. Ingress Template
-25. ServiceMonitor Template
+21. [ClusterRole Template](#20-resourcequota-template)
+22. [ClusterRoleBinding Templat](#20-resourcequota-template)
+23. [PodDisruptionBudget Template](#20-resourcequota-template)
+24. [Ingress Template](#20-resourcequota-template)
+25. [ServiceMonitor Template](#20-resourcequota-template)
 ---
 
 ## 1. Pod Template
