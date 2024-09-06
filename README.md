@@ -26,7 +26,11 @@ This project provides 20 different YAML templates in OpenShift, representing cor
 18. [NetworkPolicy Template](#18-networkpolicy-template)
 19. [LimitRange Template](#19-limitrange-template)
 20. [ResourceQuota Template](#20-resourcequota-template)
-
+21. [ClusterRole Template](#20-resourcequota-template)
+22. [ClusterRoleBinding Templat](#20-resourcequota-template)
+23. [PodDisruptionBudget Template](#20-resourcequota-template)
+24. [Ingress Template](#20-resourcequota-template)
+25. [ServiceMonitor Template](#20-resourcequota-template)
 ---
 
 ## 1. Pod Template
@@ -88,3 +92,18 @@ Enforces resource usage constraints for Pods in a namespace.
 
 ## 20. ResourceQuota Template
 Limits resource usage in a namespace to ensure fair allocation.
+
+## 21.ClusterRole Template
+Defines cluster-wide permissions for resources.
+
+## 22.ClusterRoleBinding Template
+Binds a ClusterRole to a user or group, granting cluster-wide access.
+
+## 23.PodDisruptionBudget Template
+Ensures a minimum number of Pods remain available during disruptions.
+
+## 24.Ingress Template
+Configures external HTTP/HTTPS access to services using customizable routing.
+
+## 25.ServiceMonitor Template
+Monitors services as part of Prometheus integration, defining which endpoints to scrape for metrics.
