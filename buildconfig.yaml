@@ -6,6 +6,6 @@ spec:
   source:
     type: Git
     git:
-      uri: "https://github.com/example/myapp.git"
+      uri: "https://github.com/rifaterdemsahin/podhtml.git"
   strategy:
     type: Docker
