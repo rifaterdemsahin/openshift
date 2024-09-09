@@ -14,7 +14,7 @@ This project provides 20 different YAML templates in OpenShift, representing cor
 6. [BuildConfig Template](#6-buildconfig-template)
 7. [ImageStream Template](#7-imagestream-template)
 8. [CronJob Template](#8-cronjob-template)
-9. [Secret Template](#9-secret-template)
+9. [Secret Template](#9-secret-template) >> move on with this
 10. [ConfigMap Template](#10-configmap-template)
 11. [HorizontalPodAutoscaler (HPA) Template](#11-horizontalpodautoscaler-hpa-template)
 12. [DaemonSet Template](#12-daemonset-template)
