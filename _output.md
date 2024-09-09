@@ -6,3 +6,6 @@
 
 # Second Day Local Trigger
 ![image](https://github.com/user-attachments/assets/84163cd3-943a-4f6a-b750-5d8fa50ffc76)
+
+# DeploymentConfig
+![image](https://github.com/user-attachments/assets/764801c1-17a8-4355-b126-e2fb57c956a9)
