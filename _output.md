@@ -17,3 +17,7 @@
 ![image](https://github.com/user-attachments/assets/2c6a1331-2f11-4a8a-be32-42428e06de7c)
 ![image](https://github.com/user-attachments/assets/8d1e38a1-de2c-4772-96f5-612ddcb5041b)
 ![image](https://github.com/user-attachments/assets/0857e3c6-5beb-4914-b1d5-fd0ce0064454)
+
+
+#Service Pods
+![image](https://github.com/user-attachments/assets/319307a1-9824-487d-8abe-9a8d87460406)
