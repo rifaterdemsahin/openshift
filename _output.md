@@ -8,5 +8,6 @@
 ![image](https://github.com/user-attachments/assets/84163cd3-943a-4f6a-b750-5d8fa50ffc76)
 
 # DeploymentConfig
-## Commit > https://github.com/rifaterdemsahin/openshift-resources/commit/83f9e0d0f7330872c0198c9dad25bf4f01b954f0
+> **Commit**: [83f9e0d0f7330872c0198c9dad25bf4f01b954f0](https://github.com/rifaterdemsahin/openshift-resources/commit/83f9e0d0f7330872c0198c9dad25bf4f01b954f0)
+
 ![image](https://github.com/user-attachments/assets/764801c1-17a8-4355-b126-e2fb57c956a9)
