@@ -21,3 +21,8 @@
 
 #Service Pods
 ![image](https://github.com/user-attachments/assets/319307a1-9824-487d-8abe-9a8d87460406)
+
+
+#Route with related service > only jump from route to service one direction linking
+![image](https://github.com/user-attachments/assets/0d0760b7-f956-4c2d-9832-20bd06135482)
+
