@@ -11,3 +11,9 @@
 > **Commit**: [83f9e0d0f7330872c0198c9dad25bf4f01b954f0](https://github.com/rifaterdemsahin/openshift-resources/commit/83f9e0d0f7330872c0198c9dad25bf4f01b954f0)
 
 ![image](https://github.com/user-attachments/assets/764801c1-17a8-4355-b126-e2fb57c956a9)
+
+
+#Service Going Online on Network > Selecting Pod myapp 
+![image](https://github.com/user-attachments/assets/2c6a1331-2f11-4a8a-be32-42428e06de7c)
+![image](https://github.com/user-attachments/assets/8d1e38a1-de2c-4772-96f5-612ddcb5041b)
+![image](https://github.com/user-attachments/assets/0857e3c6-5beb-4914-b1d5-fd0ce0064454)
