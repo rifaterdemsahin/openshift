@@ -31,3 +31,6 @@
 
 #Build Config not targettting the correct repo
 ![image](https://github.com/user-attachments/assets/04927b9e-8917-4fc2-adaf-0b00cd5ac884)
+
+#Build Config Updated
+![image](https://github.com/user-attachments/assets/aa20766d-f61e-4b68-af5a-8c453178d594)
