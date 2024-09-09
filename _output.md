@@ -38,3 +38,8 @@
 # ImageStream
 ![image](https://github.com/user-attachments/assets/5e2087d2-0c63-44ed-8a26-cd6bb9e65204)
 
+# Cronjob doing the basics
+![image](https://github.com/user-attachments/assets/d95bab61-3799-43d5-a736-879799d84b7f)
+![image](https://github.com/user-attachments/assets/2ff1b09a-02ef-4883-ba86-15d1eca53d31)
+
+
