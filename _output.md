@@ -26,5 +26,5 @@
 #Route with related service > only jump from route to service one direction linking
 ![image](https://github.com/user-attachments/assets/0d0760b7-f956-4c2d-9832-20bd06135482)
 
-#Persistene Volume Claim > Check the CreateDate
+#Persistene Volume Claim > Check the CreateDate >> status stuck at pending after 3 minutes
 ![image](https://github.com/user-attachments/assets/82f7d849-6b8c-41f2-a645-ac5612e45b2a)
