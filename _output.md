@@ -75,6 +75,10 @@
 # NetworkPolicy
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/bec2e858-a61f-44fc-a922-a97db40a5e50">
 
+# ClusterUpdate
+<img width="1223" alt="image" src="https://github.com/user-attachments/assets/9fe501a6-c4ab-4ea3-a6be-8f0281f94f98">
+
+
 
 
 
