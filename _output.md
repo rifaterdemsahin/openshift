@@ -81,6 +81,9 @@
 # Quota Creation
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/dfd0e055-132e-47b5-b088-15dc04105596">
 
+# Limit rsnge memory
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/6a434684-de83-4562-9fc6-46b6b2773975">
+
 
 
 
