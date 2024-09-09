@@ -52,8 +52,28 @@
 # Config Map / Date Wrong
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/bb3427e1-8f4a-4023-8343-c9000c1dc976">
 
-# Hpa not found
+# Hpa not found myapp
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/2b2da9ee-3b95-435e-8339-28acddc39a6e">
+<img width="1364" alt="image" src="https://github.com/user-attachments/assets/601057ef-8bd1-476c-9925-618c7169d8c8">
+
+
+# StatefulSets
+<img width="1720" alt="image" src="https://github.com/user-attachments/assets/f9ab7a50-73b7-42dc-a4f1-75161deffae6">
+
+# Job
+<img width="1695" alt="image" src="https://github.com/user-attachments/assets/31476ab7-7dc0-4718-801b-1490b5290a37">
+
+# DaemonSet
+<img width="1727" alt="image" src="https://github.com/user-attachments/assets/11089299-1a36-44dd-bb75-5cb4513393aa">
+
+# ReplicationController
+<img width="1224" alt="image" src="https://github.com/user-attachments/assets/2fa4c1f3-df0e-445d-a850-6e84fa95f318">
+
+# Ingress
+<img width="1720" alt="image" src="https://github.com/user-attachments/assets/73629f5b-bf1d-460a-8625-0f3f419fa774">
+
+# NetworkPolicy
+<img width="1263" alt="image" src="https://github.com/user-attachments/assets/bec2e858-a61f-44fc-a922-a97db40a5e50">
 
 
 
