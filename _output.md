@@ -1,4 +1,4 @@
-# Deploy After Admin Login
+-# Deploy After Admin Login
 <img width="1723" alt="image" src="https://github.com/user-attachments/assets/922f5fba-6cf1-4bb1-b4e5-abe5838a1406">
 
 # Search with PodName
@@ -28,3 +28,6 @@
 
 #Persistene Volume Claim > Check the CreateDate >> status stuck at pending after 3 minutes
 ![image](https://github.com/user-attachments/assets/82f7d849-6b8c-41f2-a645-ac5612e45b2a)
+
+#Build Config not targettting the correct repo
+![image](https://github.com/user-attachments/assets/04927b9e-8917-4fc2-adaf-0b00cd5ac884)
