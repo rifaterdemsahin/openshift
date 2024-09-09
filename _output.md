@@ -78,6 +78,10 @@
 # ClusterUpdate
 <img width="1223" alt="image" src="https://github.com/user-attachments/assets/9fe501a6-c4ab-4ea3-a6be-8f0281f94f98">
 
+# Quota Creation
+<img width="1728" alt="image" src="https://github.com/user-attachments/assets/dfd0e055-132e-47b5-b088-15dc04105596">
+
+
 
 
 
