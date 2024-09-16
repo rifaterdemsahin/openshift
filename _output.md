@@ -84,6 +84,12 @@
 # Limit rsnge memory
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/6a434684-de83-4562-9fc6-46b6b2773975">
 
+# Custom Resource Definitions
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/ebe4358d-f85d-458c-8e54-733649a0f9e3">
+<img width="1644" alt="image" src="https://github.com/user-attachments/assets/e5e04c9f-ffb6-4c9d-905b-7370ea68fe24">
+
+
+
 
 
 
