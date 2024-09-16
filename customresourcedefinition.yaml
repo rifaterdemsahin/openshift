@@ -8,6 +8,24 @@ spec:
   - name: v1
     served: true
     storage: true
+    schema:
+      openAPIV3Schema:
+        type: object
+        properties:
+          spec:
+            type: object
+            properties:
+              # Define your CronTab spec properties here
+              schedule:
+                type: string
+                description: Cron schedule for the task
+              command:
+                type: array
+                items:
+                  type: string
+                description: Command to execute
+        required:
+        - spec 
   scope: Namespaced
   names:
     plural: crontabs
